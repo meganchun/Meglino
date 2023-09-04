@@ -1,0 +1,10 @@
+3,The elements of an array can be either primitive types or reference types,t,n/a,n/a,n/a
+1,Which of the following statements is NOT true for when elements in an array receives a default value,Space for string elements,Zero for numeric primitive-type elements,False for boolean elements,Null for references
+2,When strings are used as an argument it is an example of a pass-by-__________,reference,n/a,n/a,n/a
+3,If an array length of 8 it's indexes go from 0-8,f,n/a,n/a,n/a
+4,Which of the following statements true for multi-dimensional arrays,The initial values are grouped by row in braces,Identify particular table element with two indices,Rows can have different lengths,They hold multiple different data types
+1,Which of the following is NOT an array object property method,size(),length(),binarySort(),toString()
+2,With enhanced for loops you ____ have to be concerned about the size of the array,don't,n/a,n/a,n/a
+3,You have to import the java.util in order to use arrays,f,n/a,n/a,n/a
+2,The subscript of the last element in an array is ___ less than the total number of elements in the array,one,n/a,n/a,n/a
+3,Arrays length can be modifed after being created,f,n/a,n/a,n/a
