@@ -31,20 +31,8 @@ This learning module offers a structured approach to mastering Java arrays. Star
 - **Progression System:** Unlock more advanced concepts as you complete each module and demonstrate your understanding.
 - **Comprehensive Learning:** Cover foundational to advanced topics in Java arrays with practical, hands-on exercises.
 
-## Getting Started
-
-1. **Access the Learning Module:** Visit [Java Arrays Learning Module](http://example.com) to begin.
-2. **Create an Account:** Register or log in to track your progress and access all features.
-3. **Select a Module:** Start with "Arrays Novice" and advance through the levels as you complete each module.
-4. **Engage with Content:** Participate in games and quizzes to enhance your learning experience.
-
-## Gameplay and Quizzes
-
-- **Games:** Each module includes a game designed to reinforce the concepts taught. Complete the game to proceed to the next level.
-- **Quizzes:** After each module, complete a quiz to test your knowledge and earn badges for your achievements.
-
 ## Technical Details
 
-- Java, Java Swing GUI, arrays, lists, OOP
+- Java, Java Swing GUI, Arrays, ArrayLists, OOP
 
 ![meglinoCard](https://github.com/user-attachments/assets/8aad51da-bfb8-46ae-a2d0-86426f04e49b)
